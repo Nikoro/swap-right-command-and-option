@@ -11,7 +11,7 @@ Especially useful for **Polish Mac users** — Polish diacritics (ą, ę, ś, ć
 ## One-liner install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/dominikkrajcer/swap-right-command-and-option/main/install.sh | bash
+curl -fsSL https://nikoro.github.io/swap-right-command-and-option/install.sh | bash
 ```
 
 This will:
