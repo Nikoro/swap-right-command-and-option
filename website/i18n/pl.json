@@ -1,0 +1,21 @@
+{
+  "meta.title": "Zamiana prawego Command i Option na macOS",
+  "nav.install": "Instalacja",
+  "hero.title": "Zamień prawy ⌘ i ⌥,<br><span class=\"gradient\">jednym poleceniem.</span>",
+  "hero.subtitle": "Zamienia prawy Command z prawym Option na macOS. Działa natychmiast, przeżywa restarty. Bez instalowania aplikacji.",
+  "key.command": "Prawy Command",
+  "key.option": "Prawy Option",
+  "hero.hint": "Działa na macOS. Bez zależności. Bez restartu.",
+  "hero.meta.hidutil": "hidutil",
+  "hero.meta.launchagent": "LaunchAgent",
+  "polish.title": "Idealne dla polskich użytkowników",
+  "polish.desc": "Polskie znaki diakrytyczne (<span class=\"chars\">ą ę ś ć ż ź ó ł ń</span>) wpisuje się przez prawy Option + litera. Na wielu klawiaturach zewnętrznych prawy Option jest tam, gdzie Command na MacBooku — ta zamiana to naprawia.",
+  "install.title": "Instalacja",
+  "install.desc": "Jedno polecenie, żeby pobrać i aktywować zamianę klawiszy. Działa na każdym Macu.",
+  "install.terminal_label": "Zainstaluj przez Terminal",
+  "install.terminal_hint": "Pobiera plist LaunchAgenta do ~/Library/LaunchAgents/ i ładuje go od razu.",
+  "install.manual_toggle": "Wolisz zainstalować ręcznie?",
+  "install.step1": "Zapisz <a href=\"https://raw.githubusercontent.com/Nikoro/swap-right-command-and-option/main/com.local.swap-right-command-and-option.plist\" class=\"step-link\" style=\"color:var(--accent)\"><strong>plik plist</strong></a> do <code>~/Library/LaunchAgents/</code>",
+  "install.step2": "Załaduj agenta:",
+  "install.uninstall": "Aby odinstalować, zobacz <a href=\"https://github.com/Nikoro/swap-right-command-and-option#uninstall\">instrukcję odinstalowania</a> na GitHubie."
+}

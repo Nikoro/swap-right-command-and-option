@@ -2,6 +2,10 @@
 
 Swaps **Right Command** and **Right Option** on macOS. Applied immediately, persists across reboots.
 
+<p align="center">
+  <img src="assets/swap-keys.svg" alt="Right Command ⇄ Right Option" width="480">
+</p>
+
 Especially useful for **Polish Mac users** — Polish diacritics (ą, ę, ś, ć, ż, ź, ó, ł, ń) are typed with Right Option + letter. On many external keyboards, Right Option is where Right Command sits on the MacBook, making Polish characters awkward to type. This swap fixes that.
 
 ## One-liner install

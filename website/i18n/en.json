@@ -1,0 +1,21 @@
+{
+  "meta.title": "Swap Right Command & Option on macOS",
+  "nav.install": "Install",
+  "hero.title": "Swap Right ⌘ & ⌥,<br><span class=\"gradient\">one command.</span>",
+  "hero.subtitle": "Swap Right Command and Right Option keys on macOS. Applied instantly, persists across reboots. No app to install.",
+  "key.command": "Right Command",
+  "key.option": "Right Option",
+  "hero.hint": "Works on macOS. No dependencies. No restart needed.",
+  "hero.meta.hidutil": "hidutil",
+  "hero.meta.launchagent": "LaunchAgent",
+  "polish.title": "Great for Polish users",
+  "polish.desc": "Polish diacritics (<span class=\"chars\">ą ę ś ć ż ź ó ł ń</span>) are typed with Right Option + letter. On many external keyboards, Right Option is where Command sits on the MacBook — this swap fixes that.",
+  "install.title": "Installation",
+  "install.desc": "One command to download and activate the key swap. Works on any Mac.",
+  "install.terminal_label": "Install via Terminal",
+  "install.terminal_hint": "Downloads the LaunchAgent plist to ~/Library/LaunchAgents/ and loads it immediately.",
+  "install.manual_toggle": "Prefer to install manually?",
+  "install.step1": "Save the <a href=\"https://raw.githubusercontent.com/Nikoro/swap-right-command-and-option/main/com.local.swap-right-command-and-option.plist\" class=\"step-link\" style=\"color:var(--accent)\"><strong>plist file</strong></a> to <code>~/Library/LaunchAgents/</code>",
+  "install.step2": "Load the agent:",
+  "install.uninstall": "To uninstall, see <a href=\"https://github.com/Nikoro/swap-right-command-and-option#uninstall\">uninstall instructions</a> on GitHub."
+}
