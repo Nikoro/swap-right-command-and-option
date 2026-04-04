@@ -4,7 +4,7 @@ set -euo pipefail
 PLIST_NAME="com.local.swap-right-command-and-option.plist"
 LAUNCH_AGENTS="$HOME/Library/LaunchAgents"
 DEST="$LAUNCH_AGENTS/$PLIST_NAME"
-RAW_URL="https://raw.githubusercontent.com/dominikkrajcer/swap-right-command-and-option/main/$PLIST_NAME"
+RAW_URL="https://raw.githubusercontent.com/Nikoro/swap-right-command-and-option/main/$PLIST_NAME"
 
 echo "==> Downloading $PLIST_NAME..."
 mkdir -p "$LAUNCH_AGENTS"
